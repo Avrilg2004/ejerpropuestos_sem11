@@ -1,0 +1,8 @@
+C:\Users\USER\OneDrive\Escritorio\sem11_ejer.propuestos\ejer1_sem11\bin\Debug\ejer1_sem11.exe.config
+C:\Users\USER\OneDrive\Escritorio\sem11_ejer.propuestos\ejer1_sem11\bin\Debug\ejer1_sem11.exe
+C:\Users\USER\OneDrive\Escritorio\sem11_ejer.propuestos\ejer1_sem11\bin\Debug\ejer1_sem11.pdb
+C:\Users\USER\OneDrive\Escritorio\sem11_ejer.propuestos\ejer1_sem11\obj\Debug\ejer1_sem11.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\sem11_ejer.propuestos\ejer1_sem11\obj\Debug\ejer1_sem11.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\sem11_ejer.propuestos\ejer1_sem11\obj\Debug\ejer1_sem11.exe
+C:\Users\USER\OneDrive\Escritorio\sem11_ejer.propuestos\ejer1_sem11\obj\Debug\ejer1_sem11.pdb
+C:\Users\USER\OneDrive\Escritorio\sem11_ejer.propuestos\ejer1_sem11\obj\Debug\ejer1_sem11.exe.config
